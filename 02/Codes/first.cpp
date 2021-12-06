@@ -71,6 +71,7 @@ int main() {
 
     }
 
+    // Solution
     std::cout << "horizontal = " << position.first << "\ndepth = " << position.second << "\nposition = " << position.first*position.second;
 
     return 0;
